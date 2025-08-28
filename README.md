@@ -1,2 +1,2 @@
 friends
-https://manushankar20.github.io/many.com/
+https://manyshankar.github.io/many.com/
